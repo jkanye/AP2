@@ -1,6 +1,6 @@
 
 
-[![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+ License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/google-agentic-commerce/AP2)
 
 <!-- markdownlint-disable MD041 -->
@@ -10,9 +10,7 @@
 
 This repository contains code samples and demos of the Agent Payments Protocol.
 
-## Intro to AP2 Video
-
-[![A2A Intro Video](https://img.youtube.com/vi/yLTp3ic2j5c/hqdefault.jpg)](https://goo.gle/ap2-video)
+## 
 
 ## About the Samples
 
