@@ -12,11 +12,13 @@ This repository contains code samples and demos of the Agent Payments Protocol.
 
 ## 
 
+### AP2 on The Agent Factory
+
+[![The Agent Factory - Episode 8: Agent payments, can you do my shopping?](https://img.youtube.com/vi/T1MtWnEYXM0/hqdefault.jpg)](https://youtu.be/T1MtWnEYXM0?si=QkJWnAiav0JAP9F6)
+
 ## About the Samples
 
-These samples use
-[Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and Gemini 2.5
-Flash.
+These samples use [Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and Gemini 2.5 Flash.
 
 The Agent Payments Protocol doesn't require the use of either. While these were
 used in the samples, you're free to use any tools you prefer to build your
